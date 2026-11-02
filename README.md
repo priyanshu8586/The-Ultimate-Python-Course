@@ -3,7 +3,7 @@
 Welcome to [**The Ultimate Python Course!**](https://youtu.be/UrsmFxEIp5k)
 
 This course is designed to take you from a  beginner to an advanced Python programmer. The repository contains all the source code, projects, problem sets, and additional resources to supplement your learning.
-This is a part of my video The Ultimate Python Couse. Refer to this [video](https://youtu.be/UrsmFxEIp5k) to watch my Python course
+This is a part of my video The Ultimate Python Couse. Refer to this [video](https://youtu.be/UrsmFxEIp5k) to watch my Python courseduduxuxuxuuxjxjxxuxu
 
 ## Table of Contents
 
